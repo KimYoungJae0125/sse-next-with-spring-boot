@@ -1,0 +1,31 @@
+:root {
+}
+
+@media (prefers-color-scheme: dark) {
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html,
+body {
+  max-width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-Y: hidden;
+}
+
+body {
+}
+
+a {
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+}

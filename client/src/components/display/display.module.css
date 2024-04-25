@@ -1,0 +1,10 @@
+.display {
+    border: 1px solid #ccc;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: end;
+    overflow-y: scroll;
+}
